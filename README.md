@@ -75,3 +75,9 @@ PRAW can access a maximum of 1000 comments at a time. If you have a lot of comme
 ```
 PRAW limit of 1000 comments per instance reached
 ```
+
+---
+
+Found this guide helpful? Tips are always appreciated.  
+Bitcoin (BTC): bc1qjyd9cyvykljh4jeurk60cje0g4nqp0sd3dvy9q or QR code  
+or via Crypto_TheBot on Telegram @AmbitiousDonut  
