@@ -39,8 +39,8 @@ Save and close the file.
 Open Terminal (MacOS) or command line (Windows) and navigate to where the script is saved.  
 There are two options for deleting comments: age, minkarma
 ```
-python redEraser.py --help
->usage: redEraser.py [-h] [--minkarma MINKARMA] [--age AGE]
+python redditEraser.py --help
+>usage: redditEraser.py [-h] [--minkarma MINKARMA] [--age AGE]
 >
 >optional arguments:
 >  -h, --help           show this help message and exit
@@ -51,7 +51,7 @@ By default, everything older than 7 days and below 0 karma will be deleted. When
 
 For example, to delete anything below 100 karma and older than 90 days:  
 ```
-python redEraser.py --minkarma 100  --age 90
+python redditEraser.py --minkarma 100  --age 90
 ```
 
 ```
